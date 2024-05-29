@@ -1,0 +1,4 @@
+org.springframework.test.context.ContextCustomizerFactory = in.twaritapp.\
+    controlplane.config.SqlTestContainersSpringContextCustomizerFactory,in.\
+    twaritapp.controlplane.config.\
+    KafkaTestContainersSpringContextCustomizerFactory
